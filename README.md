@@ -1,2 +1,2 @@
 # My-code-collection
-yaah thiis a new reposistory code
+yaah this is a new reposistory code
